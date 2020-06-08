@@ -1,1 +1,3 @@
-"# github-latest-repo-cli" 
+1. fork the repo
+
+2. run `yarn start your-github-username`
